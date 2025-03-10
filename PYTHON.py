@@ -1,1 +1,1 @@
-hjgjkbdvjkbjdsvbkj
+print("My another code.")
